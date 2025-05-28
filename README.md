@@ -1,2 +1,8 @@
 # SushiWebProject
 Sushi Web Project with reference from JavaScript Mastery Youtube Channel 
+
+There was a few errors that popped up when following this project such as the animations not fading in at all 
+with the data-aos, could be because the video was uploaded 2 years ago as of May 2025, buyt I've managed to solve 
+the bug by including some codes to allow the animation to flow normally again (refer to index.html and js)
+
+Hope this helps anyone that followed this proejct! 
